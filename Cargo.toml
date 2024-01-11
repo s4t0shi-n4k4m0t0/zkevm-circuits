@@ -52,8 +52,8 @@ regex = "1.5"
 serde = {version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 sha3 = "0.10"
-snark-verifier = { git = "https://github.com/scroll-tech/snark-verifier", branch = "develop" }
-snark-verifier-sdk = { git = "https://github.com/scroll-tech/snark-verifier", branch = "develop", default-features = false, features = ["loader_halo2", "loader_evm", "halo2-pse"] }
+snark-verifier = { git = "https://github.com/scroll-tech/snark-verifier", rev = "d246af26" }
+snark-verifier-sdk = { git = "https://github.com/scroll-tech/snark-verifier", rev = "d246af26", default-features = false, features = ["loader_halo2", "loader_evm", "halo2-pse"] }
 strum = "0.25"
 strum_macros = "0.25"
 subtle = "2.4"
