@@ -53,7 +53,7 @@ This repository contains several Rust packages that implement the zkevm. The hig
 
 [`gadgets`](https://github.com/scroll-tech/zkevm-circuits/tree/develop/gadgets)
 
-- Custom circuits that abstracts away low-level circuit detail.
+- Custom circuits that abstracts away low-level circuit detail
 - [What are gadgets?](https://zcash.github.io/halo2/concepts/gadgets.html)
 
 [`geth-utils`](https://github.com/scroll-tech/zkevm-circuits/tree/develop/geth-utils)
